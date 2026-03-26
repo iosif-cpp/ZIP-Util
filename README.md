@@ -33,7 +33,7 @@ dotnet build .\Kaspersky-Task2\Kaspersky-Task2.csproj
 - переменной окружения `KASPERSKY_BACKEND_URL` (или `BACKEND_URL`);
 - флагом `--base-url <url>` в POSIX-режиме (см. ниже).
 
-## Режим 1: интерфактивный
+## Режим 1: интерактивный
 
 Запуск из папки `bin`:
 
